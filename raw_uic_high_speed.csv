@@ -1,0 +1,612 @@
+﻿Area,Country/Region,Status,Section,Max.Speed(km/h),Year,Length (km)
+AFRICA,EGYPT,3. Planned,Cairo - Alexandria,320,2024,210
+AFRICA,EGYPT,3. Planned,Cairo - Aswan,320,2024,700
+AFRICA,EGYPT,3. Planned,El Alamein- AinSokhna,250,-,460
+AFRICA,EGYPT,4. Long-term planning,Hurghada- Luxor,320,-,300
+AFRICA,MOROCCO,1. In operation,Tanger - Kenitra,320,2018,186
+AFRICA,MOROCCO,3. Planned,Kenitra- Rabat,320,2027,55
+AFRICA,MOROCCO,3. Planned,Casablanca- Marrakech,320,2028,240
+AFRICA,MOROCCO,3. Planned,Rabat- Casablanca,320,2029,105
+AFRICA,MOROCCO,4. Long-term planning,Marrakech- Agadir,250,-,240
+AFRICA,SOUTH AFRICA,4. Long-term planning,Johannesburg - Durban,300,-,610
+AFRICA,SOUTH AFRICA,4. Long-term planning,Johannesburg - Musina,300,-,1300
+AFRICA,SOUTH AFRICA,4. Long-term planning,Johannesburg - CapeTown,300,-,480
+ASIA PACIFIC,AUSTRALIA,4. Long-term planning,Sydney- Canberra,350,2035,283
+ASIA PACIFIC,AUSTRALIA,4. Long-term planning,Melbourne- Gunning(- Sydney),350,2040,611
+ASIA PACIFIC,AUSTRALIA,4. Long-term planning,Sydney- Newcastle,350,2045,134
+ASIA PACIFIC,AUSTRALIA,4. Long-term planning,Brisbane- GoldCoast,350,2051,115
+ASIA PACIFIC,AUSTRALIA,4. Long-term planning,Newcastle- Bronelton(- GoldCoast),350,2058,606
+ASIA PACIFIC,CHINA,1. In operation,Qinhuangdao- ShenyangNorth,250,2003,405
+ASIA PACIFIC,CHINA,1. In operation,Taipei- Kaohsiung,300,2007,345
+ASIA PACIFIC,CHINA,1. In operation,Nanjing- Hefei,250,2008,148
+ASIA PACIFIC,CHINA,1. In operation,BeijingSouth- Tianjin,350,2008,118
+ASIA PACIFIC,CHINA,1. In operation,Qingdao- Jinan,200,2009,393
+ASIA PACIFIC,CHINA,1. In operation,HefeiEast- Hankou,250,2009,380
+ASIA PACIFIC,CHINA,1. In operation,ShijiazhuangNorth- Taiyuan,250,2009,227
+ASIA PACIFIC,CHINA,1. In operation,Suining- ChengduEast,200,2009,151
+ASIA PACIFIC,CHINA,1. In operation,Ningbo- Cangnan,250,2009,351
+ASIA PACIFIC,CHINA,1. In operation,Wuhan- GuangzhouSouth,350,2009,1079
+ASIA PACIFIC,CHINA,1. In operation,ZhengzhouEast- Xi’anNorth,350,2010,553
+ASIA PACIFIC,CHINA,1. In operation,Cangnan- Fuzhou,250,2010,211
+ASIA PACIFIC,CHINA,1. In operation,Fuzhou- Xiamenbei,250,2010,234
+ASIA PACIFIC,CHINA,1. In operation,Chengdu- Qingchengshan,200,2010,65
+ASIA PACIFIC,CHINA,1. In operation,Shanghai- Nanjing,350,2010,323
+ASIA PACIFIC,CHINA,1. In operation,Jiujiang- NanchangWest,250,2010,138
+ASIA PACIFIC,CHINA,1. In operation,ShanghaiHongqiao- HangzhouSouth,350,2010,174
+ASIA PACIFIC,CHINA,1. In operation,Haikou- Sanya,250,2010,308
+ASIA PACIFIC,CHINA,1. In operation,Guangzhou- ZhuhaiNorth,200,2011,143
+ASIA PACIFIC,CHINA,1. In operation,Changchun- Jilin,250,2011,111
+ASIA PACIFIC,CHINA,1. In operation,BeijingSouth- ShanghaiHongqiao,350,2011,1318
+ASIA PACIFIC,CHINA,1. In operation,GuangzhouSouth- Futian,250,2011,111
+ASIA PACIFIC,CHINA,1. In operation,Longyan- Zhangzhou,200,2012,114
+ASIA PACIFIC,CHINA,1. In operation,Hankou- YichangEast,200,2012,292
+ASIA PACIFIC,CHINA,1. In operation,ZhengzhouEast- Wuhan,350,2012,526
+ASIA PACIFIC,CHINA,1. In operation,BengbuSouth- Hefei,350,2012,131
+ASIA PACIFIC,CHINA,1. In operation,DalianNorth- HarbinWest,350,2012,921
+ASIA PACIFIC,CHINA,1. In operation,Taigemu- Baotou,200,2012,146
+ASIA PACIFIC,CHINA,1. In operation,BeijingWest- ZhengzhouEast,350,2012,676
+ASIA PACIFIC,CHINA,1. In operation,Taishansuo(blockstation) - Liuzhou,200,2012,498
+ASIA PACIFIC,CHINA,1. In operation,NanjingSouth- HangzhouEast,350,2013,254
+ASIA PACIFIC,CHINA,1. In operation,HangzhouSouth- Ningbo,350,2013,157
+ASIA PACIFIC,CHINA,1. In operation,PanjinNorth- YingkouEast,350,2013,90
+ASIA PACIFIC,CHINA,1. In operation,NanchangWest  - Fuzhou,200,2013,547
+ASIA PACIFIC,CHINA,1. In operation,Yongtai- Putian,200,2013,59
+ASIA PACIFIC,CHINA,1. In operation,Tianjin- Qinhuangdao,350,2013,288
+ASIA PACIFIC,CHINA,1. In operation,Xi’anNorth- BaojiSouth,350,2013,184
+ASIA PACIFIC,CHINA,1. In operation,XiamenNorth- ShenzhenNorth,250,2013,513
+ASIA PACIFIC,CHINA,1. In operation,NanhuEast- XianningSouth,250,2013,76
+ASIA PACIFIC,CHINA,1. In operation,Liuzhou- Nanning,250,2013,223
+ASIA PACIFIC,CHINA,1. In operation,QinzhouNorth- Fangchenggang,250,2013,62
+ASIA PACIFIC,CHINA,1. In operation,NanningEast- Beihai,250,2013,197
+ASIA PACIFIC,CHINA,1. In operation,PixianWest- Pengzhou,200,2013,21
+ASIA PACIFIC,CHINA,1. In operation,ChongqingNorth- Liangwu,200,2013,263
+ASIA PACIFIC,CHINA,1. In operation,Nanning- Genzhu,250,2014,143
+ASIA PACIFIC,CHINA,1. In operation,Genzhu- GuangzhouSouth,200,2014,431
+ASIA PACIFIC,CHINA,1. In operation,Wuhan- Dayebei,250,2014,91
+ASIA PACIFIC,CHINA,1. In operation,GedianSouth- Huanggangdong,250,2014,36
+ASIA PACIFIC,CHINA,1. In operation,TaiyuanSouth- Xi’anNorth,250,2014,571
+ASIA PACIFIC,CHINA,1. In operation,HangzhouSouth- ChangshaSouth,350,2014,911
+ASIA PACIFIC,CHINA,1. In operation,ChangshaSouth- XinhuangWest,350,2014,420
+ASIA PACIFIC,CHINA,1. In operation,Jiangyou- ChengduEast,250,2014,153
+ASIA PACIFIC,CHINA,1. In operation,ChengduEast- Leshan,250,2014,135
+ASIA PACIFIC,CHINA,1. In operation,Leshan-  Emeishan,250,2014,27
+ASIA PACIFIC,CHINA,1. In operation,LanzhouWest- ÜrümqiSouth,250,2014,1785
+ASIA PACIFIC,CHINA,1. In operation,GuiyangEast- GuangzhouSouth,250,2014,860
+ASIA PACIFIC,CHINA,1. In operation,Qingdao- Rongcheng,250,2014,301
+ASIA PACIFIC,CHINA,1. In operation,ZhengzhouEast- Songchenglu,200,2014,50
+ASIA PACIFIC,CHINA,1. In operation,Ximotang- Yantai,250,2015,19
+ASIA PACIFIC,CHINA,1. In operation,Nanyangzhai- Jiaozuo,200,2015,70
+ASIA PACIFIC,CHINA,1. In operation,Houling (block station) - Hongxing (block station),200,2018,8
+ASIA PACIFIC,CHINA,1. In operation,Huyi (block station) - Aibei (block station),200,2018,2
+ASIA PACIFIC,CHINA,1. In operation,Chengde South - Pingquan North,350,2018,67
+ASIA PACIFIC,CHINA,1. In operation,XinhuangWest- GuiyangNorth,350,2015,286
+ASIA PACIFIC,CHINA,1. In operation,HefeiNorthCity- Fuzhou,350,2015,850
+ASIA PACIFIC,CHINA,1. In operation,HarbinNorth- Qiqihar South,250,2015,269
+ASIA PACIFIC,CHINA,1. In operation,ShenyangSouth- Dandong,250,2015,207
+ASIA PACIFIC,CHINA,1. In operation,Tianjin- Yujiapu,350,2015,43
+ASIA PACIFIC,CHINA,1. In operation,Jilin- Huichun,250,2015,361
+ASIA PACIFIC,CHINA,1. In operation,NanjingSouth- Anqing,250,2015,257
+ASIA PACIFIC,CHINA,1. In operation,Nanning- Yangxu,250,2015,257
+ASIA PACIFIC,CHINA,1. In operation,Dandong- DalianNorth,200,2015,293
+ASIA PACIFIC,CHINA,1. In operation,ChengduEast- Shapingba,250,2015,300
+ASIA PACIFIC,CHINA,1. In operation,Tangyasuo(blockstation) - WenzhouSouth,200,2015,190
+ASIA PACIFIC,CHINA,1. In operation,Ganxian- Longyan,200,2015,248
+ASIA PACIFIC,CHINA,1. In operation,TianjinWest- BazhouWest,250,2015,73
+ASIA PACIFIC,CHINA,1. In operation,BazhouWest- Xushui,200,2015,65
+ASIA PACIFIC,CHINA,1. In operation,HainanWestCircle(Haikou-Sanya),200,2015,345
+ASIA PACIFIC,CHINA,1. In operation,ZhengzhouEast- XinzhengAirport,200,2015,27
+ASIA PACIFIC,CHINA,1. In operation,Taipei- Nangang,130,2016,9
+ASIA PACIFIC,CHINA,1. In operation,FoshanWest- Zhaoqing,200,2016,81
+ASIA PACIFIC,CHINA,1. In operation,ChangpingEast- Xiaojinkou,200,2016,53
+ASIA PACIFIC,CHINA,1. In operation,Zhengzhou- Xuzhou,350,2016,362
+ASIA PACIFIC,CHINA,1. In operation,ChongqingNorth- WanzhouNorth,250,2016,246
+ASIA PACIFIC,CHINA,1. In operation,Hankou- XiaoganEast,200,2016,61
+ASIA PACIFIC,CHINA,1. In operation,Changsha- Zhuzhou- Xiangtan,200,2016,82
+ASIA PACIFIC,CHINA,1. In operation,GuiyangNorth- Kunming,250,2016,463
+ASIA PACIFIC,CHINA,1. In operation,Yangxu- Baise,250,2016,452
+ASIA PACIFIC,CHINA,1. In operation,DayeNorth- Yangxin,250,2017,37
+ASIA PACIFIC,CHINA,1. In operation,BaojiSouth- LanzhouWest,250,2017,353
+ASIA PACIFIC,CHINA,1. In operation,Wulanchabu- HohhotEast,250,2017,128
+ASIA PACIFIC,CHINA,1. In operation,Yangxin- K23BlockStation,250,2017,82
+ASIA PACIFIC,CHINA,1. In operation,Xi’anNorth- Jinangyou,250,2017,505
+ASIA PACIFIC,CHINA,1. In operation,Huaibei North - Xiaoxian North,250,2017,25
+ASIA PACIFIC,CHINA,1. In operation,Shijiazhuang - Jinan East,250,2017,308
+ASIA PACIFIC,CHINA,1. In operation,Quzhou - Jiujiang,200,2017,334
+ASIA PACIFIC,CHINA,1. In operation,Dongguan - Changping East,200,2017,48
+ASIA PACIFIC,CHINA,1. In operation,Changsha West - Changsha,200,2017,22
+ASIA PACIFIC,CHINA,1. In operation,Chongqing West - Guiyang,200,2018,380
+ASIA PACIFIC,CHINA,1. In operation,Jiangmen - Zhanjiang West,200,2018,355
+ASIA PACIFIC,CHINA,1. In operation,Harbin - Jiamusi,200,2018,343
+ASIA PACIFIC,CHINA,1. In operation,Yuanping West - Taiyuan South,200,2018,111
+ASIA PACIFIC,CHINA,1. In operation,Guangtong North - Dali,200,2018,175
+ASIA PACIFIC,CHINA,1. In operation,Xinhui - Jiangmen,200,2018,3
+ASIA PACIFIC,CHINA,1. In operation,Futian - Hong Kong (boundary),200,2018,4
+ASIA PACIFIC,CHINA,1. In operation,Harbin - Harbin North,200,2018,13
+ASIA PACIFIC,CHINA,1. In operation,Hangzhou South - Huangshan North,200,2018,272
+ASIA PACIFIC,CHINA,1. In operation,Harbin - Mudanjiang,250,2018,300
+ASIA PACIFIC,CHINA,1. In operation,Qingdao North - Ganyu North,200,2018,197
+ASIA PACIFIC,CHINA,1. In operation,Ganyu North - Weiyang (block station),200,2018,234
+ASIA PACIFIC,CHINA,1. In operation,Huaihua South - Hengyang East,200,2018,319
+ASIA PACIFIC,CHINA,1. In operation,Xiantang - Yanjialong,200,2018,5
+ASIA PACIFIC,CHINA,1. In operation,Changtang (block station) - Hengyang North,200,2018,5
+ASIA PACIFIC,CHINA,1. In operation,Changtang (block station) - Chashan'ao,200,2018,5
+ASIA PACIFIC,CHINA,1. In operation,Qihe - Jinan West,200,2018,21
+ASIA PACIFIC,CHINA,1. In operation,Dazhengzhuang (b.s.) - Damoliu (b.s.),200,2018,3
+ASIA PACIFIC,CHINA,1. In operation,Jinan East - Wulitang (block station),200,2018,21
+ASIA PACIFIC,CHINA,1. In operation,Jinan East - Qingdao,350,2018,305
+ASIA PACIFIC,CHINA,1. In operation,Tongren - Dazongping,200,2018,46
+ASIA PACIFIC,CHINA,1. In operation,Chengdu West - Chaoyang Lake,200,2018,100
+ASIA PACIFIC,CHINA,1. In operation,Nanping North - Longyan,200,2018,247
+ASIA PACIFIC,CHINA,1. In operation,Pingquan North - Shenyang,350,2018,434
+ASIA PACIFIC,CHINA,1. In operation,Qiandingxiang W. (b.s.) - Houdingxiang E. (b.s.),200,2018,2
+ASIA PACIFIC,CHINA,1. In operation,Houdingxiang E. (b.s.) - Qiandingxiang W. (b.s.),200,2018,2
+ASIA PACIFIC,CHINA,1. In operation,Tongliao - Xinmin North,250,2018,197
+ASIA PACIFIC,CHINA,1. In operation,Yaojiawopu (block station) - Tianjiawopu (b.s.),200,2018,6
+ASIA PACIFIC,CHINA,1. In operation,Tuancun (block station) - Daguhe (block station),350,2018,4
+ASIA PACIFIC,CHINA,1. In operation,Leshan - Yibin West,350,2019,145
+ASIA PACIFIC,CHINA,1. In operation,Liying - Daxing Airport,200,2019,32
+ASIA PACIFIC,CHINA,1. In operation,Meizhou West - Chaoshan,200,2019,120
+ASIA PACIFIC,CHINA,1. In operation,Rizhao West - Dawangzhuang (block station),350,2019,226
+ASIA PACIFIC,CHINA,1. In operation,Qufu East - Dawangzhuang (block station),200,2019,10
+ASIA PACIFIC,CHINA,1. In operation,Qufu East - Daxiasong (block station),200,2019,4
+ASIA PACIFIC,CHINA,1. In operation,Xiaogan East - Yunmeng East,250,2019,21
+ASIA PACIFIC,CHINA,1. In operation,Yunmeng East - Shiyan East,350,2019,377
+ASIA PACIFIC,CHINA,1. In operation,Shangqiu - Hefei North City,350,2019,378
+ASIA PACIFIC,CHINA,1. In operation,Zhengzhou East - Xiangyang East,350,2019,389
+ASIA PACIFIC,CHINA,1. In operation,Zhengzhou South - Fuyang West,350,2019,280
+ASIA PACIFIC,CHINA,1. In operation,Yinchuan - Zhongwei South,250,2019,207
+ASIA PACIFIC,CHINA,1. In operation,Xintang South - Shenzhen Airport,140,2019,73
+ASIA PACIFIC,CHINA,1. In operation,Xintang South - Xintang,140,2019,3
+ASIA PACIFIC,CHINA,1. In operation,Xuzhou (Lanxu Yard) - Yancheng (Yanxu Y.),250,2019,313
+ASIA PACIFIC,CHINA,1. In operation,Dongji - Huai'an East,250,2019,105
+ASIA PACIFIC,CHINA,1. In operation,Yibin West -  Guiyang East,250,2019,368
+ASIA PACIFIC,CHINA,1. In operation,Jianpo (block station) - Guiyang North,250,2019,9
+ASIA PACIFIC,CHINA,1. In operation,Hejia (block station) - Ganzhou West,350,2019,385
+ASIA PACIFIC,CHINA,1. In operation,Henggang - Hejia (block station),200,2019,11
+ASIA PACIFIC,CHINA,1. In operation,Dongcun (block station) - Pushu (block station),200,2019,5
+ASIA PACIFIC,CHINA,1. In operation,Fanjia (block station) - Nanjie (block station),200,2019,2
+ASIA PACIFIC,CHINA,1. In operation,Ganxian North - Pingjiang (block station),200,2019,3
+ASIA PACIFIC,CHINA,1. In operation,Qianjiang - Changde,200,2019,333
+ASIA PACIFIC,CHINA,1. In operation,Beijing North - Zhangjiakou,350,2019,174
+ASIA PACIFIC,CHINA,1. In operation,Zhangjiakou - Wulanchabu,350,2019,159
+ASIA PACIFIC,CHINA,1. In operation,Xiahuayuan - Taizicheng (Chongli Railway),250,2019,52
+ASIA PACIFIC,CHINA,1. In operation,Huai'an - Datong South,250,2019,134
+ASIA PACIFIC,CHINA,1. In operation,Kazuo - Chifeng,250,2020,156
+ASIA PACIFIC,CHINA,1. In operation,Sunjiagou (b.s.) - Zhengzhangzi (b.s.),200,2020,5
+ASIA PACIFIC,CHINA,1. In operation,Feidong - Huzhou,350,2020,309
+ASIA PACIFIC,CHINA,1. In operation,Zhaodian - Huangdu,200,2020,143
+ASIA PACIFIC,CHINA,1. In operation,Pingdong (b.s.) - Nantong West,200,2020,5
+ASIA PACIFIC,CHINA,1. In operation,Anshun West - Shuicheng,250,2020,120
+ASIA PACIFIC,CHINA,1. In operation,Guangzhou North - Qingyuan,200,2020,37
+ASIA PACIFIC,CHINA,1. In operation,Weifang - Laixi,350,2020,128
+ASIA PACIFIC,CHINA,1. In operation,Huai'an West - Dantu,250,2020,199
+ASIA PACIFIC,CHINA,1. In operation,Shaobo (b.s.) - Dujiang,200,2020,4
+ASIA PACIFIC,CHINA,1. In operation,Shaobo (b.s.) - Tai'anzhen,200,2020,5
+ASIA PACIFIC,CHINA,1. In operation,Hengshan (b.s.) - Zhenjiang,200,2020,12
+ASIA PACIFIC,CHINA,1. In operation,Nayangzhai - Changfengjie (b.s.),250,2020,362
+ASIA PACIFIC,CHINA,1. In operation,Feixi Jinggang - Shuangling (b.s.),350,2020,134
+ASIA PACIFIC,CHINA,1. In operation,Shuangling (b.s.) - Longshan (b.s.),200,2020,4
+ASIA PACIFIC,CHINA,1. In operation,Longshan (b.s.) - Anqing,200,2020,22
+ASIA PACIFIC,CHINA,1. In operation,Fuzhou - Pingtan,200,2020,88
+ASIA PACIFIC,CHINA,1. In operation,Xi'an North - Wuzhong,250,2020,545
+ASIA PACIFIC,CHINA,1. In operation,Huwang (b.s.) - Liquan South,200,2020,6
+ASIA PACIFIC,CHINA,1. In operation,Daxing Airport - Xiong'an,350,2020,59
+ASIA PACIFIC,CHINA,1. In operation,Yancheng - Chjenqiao (b.s.),350,2020,158
+ASIA PACIFIC,CHINA,1. In operation,Guodaocun (b.s.) - Feixi Jinggang,200,2020,6
+ASIA PACIFIC,CHINA,1. In operation,Jixianlu (b.s),200,2020,10
+ASIA PACIFIC,CHINA,1. In operation,Dafu - Xiantao,200,2020,17
+ASIA PACIFIC,CHINA,2. Under construction,Guangzhou (Xintang) - Shanwei,350,2021,206
+ASIA PACIFIC,CHINA,2. Under construction,Anqing - Jiujiang,350,2021,194
+ASIA PACIFIC,CHINA,2. Under construction,Ganzhou - Shenzhen,350,2021,432
+ASIA PACIFIC,CHINA,2. Under construction,Beijing - Chengde,350,2021,192
+ASIA PACIFIC,CHINA,2. Under construction,Lianyungang - Xuzhou,350,2021,180
+ASIA PACIFIC,CHINA,2. Under construction,Changde - Yiyang - Changsha,350,2021,158
+ASIA PACIFIC,CHINA,2. Under construction,Baihe - Dunhua,250,2021,102
+ASIA PACIFIC,CHINA,2. Under construction,Chaoyang - Linaghai South (tie line),350,2021,104
+ASIA PACIFIC,CHINA,2. Under construction,Zhengzhou - Puyang,350,2021,237
+ASIA PACIFIC,CHINA,2. Under construction,Zhangjiajie - Jishou-Huaihua,350,2021,247
+ASIA PACIFIC,CHINA,2. Under construction,Beijing - Baodi,350,2021,90
+ASIA PACIFIC,CHINA,2. Under construction,Baodi - Tangshan,350,2021,59
+ASIA PACIFIC,CHINA,2. Under construction,Hangzhou - Shaoxing - Taizhou,350,2021,227
+ASIA PACIFIC,CHINA,2. Under construction,Neijiang - Zigong - Luzhou (Sichuan interc. railway),250,2021,131
+ASIA PACIFIC,CHINA,2. Under construction,Nanning - Chongzuo,250,2021,120
+ASIA PACIFIC,CHINA,2. Under construction,Xi'an - Hancheng (intercity railway),250,2021,176
+ASIA PACIFIC,CHINA,2. Under construction,Huanggang - Huangmei,350,2021,5,125
+ASIA PACIFIC,CHINA,2. Under construction,Heze - Qufu,350,2021,5,161
+ASIA PACIFIC,CHINA,2. Under construction,Fuzhou - Xiamen,350,2022,277
+ASIA PACIFIC,CHINA,2. Under construction,Shantou - Shanwei,350,2022,163
+ASIA PACIFIC,CHINA,2. Under construction,Fangchenggang - Dongxing,250,2022,48
+ASIA PACIFIC,CHINA,2. Under construction,Huzhou - Hangzhou West (tie line),350,2022,137
+ASIA PACIFIC,CHINA,2. Under construction,Chengdu - Huangshengguan,200,2022,275
+ASIA PACIFIC,CHINA,2. Under construction,Yinchuan - Huinong,250,2022,101
+ASIA PACIFIC,CHINA,2. Under construction,Zhongwei - Lanzhou,350,2022,219
+ASIA PACIFIC,CHINA,2. Under construction,Xingshan - Wanzhou,350,2022,269
+ASIA PACIFIC,CHINA,2. Under construction,Mudanjiang - Jiamusi,250,2022,375
+ASIA PACIFIC,CHINA,2. Under construction,Nanchang - Jingdezhen - Huangshan,350,2022,281
+ASIA PACIFIC,CHINA,2. Under construction,Xiangyang - Xingshan,350,2022,182
+ASIA PACIFIC,CHINA,2. Under construction,Panxian - Xingyi,250,2022,98
+ASIA PACIFIC,CHINA,2. Under construction,Baodi - Binhai New Area,350,2022,98
+ASIA PACIFIC,CHINA,2. Under construction,Tianjin - New airport (tie line),250,2022,57
+ASIA PACIFIC,CHINA,2. Under construction,Yiwu - Wenzhou,350,2022,201
+ASIA PACIFIC,CHINA,2. Under construction,Xuancheng - Jixi,350,2022,5,112
+ASIA PACIFIC,CHINA,2. Under construction,Lankao - Heze,350,2022,5,86
+ASIA PACIFIC,CHINA,2. Under construction,Guiyang - Nanning,350,2023,482
+ASIA PACIFIC,CHINA,2. Under construction,Jiangsu South Riverside Railway,350,2023,278
+ASIA PACIFIC,CHINA,2. Under construction,Chongqing - Qianjiang,350,2023,265
+ASIA PACIFIC,CHINA,2. Under construction,Chengdu - Zigong,350,2023,178
+ASIA PACIFIC,CHINA,2. Under construction,Zhongchuan Airport - Wuwei,250,2023,195
+ASIA PACIFIC,CHINA,2. Under construction,Langfang - Daxing Airport (tie line),200,2023,40
+ASIA PACIFIC,CHINA,2. Under construction,Nanjing - Huai'an (intercity railway),350,2023,201
+ASIA PACIFIC,CHINA,2. Under construction,Zigong - Yibin (Sichuan South intercity railway),350,2023,82
+ASIA PACIFIC,CHINA,2. Under construction,Jinan - Laiwu (intercity railway),350,2023,116
+ASIA PACIFIC,CHINA,2. Under construction,Longyan - Wuping,250,2023,93
+ASIA PACIFIC,CHINA,2. Under construction,Nanning - Yulin,350,2023,193
+ASIA PACIFIC,CHINA,2. Under construction,Tieli - Yichun,250,2023,5,112
+ASIA PACIFIC,CHINA,2. Under construction,Hefei - Xinyi,350,2023,5,208
+ASIA PACIFIC,CHINA,2. Under construction,Huangshan - Chizhou,350,2023,5,145
+ASIA PACIFIC,CHINA,2. Under construction,Shijiazhuang - Hengshui - Cangzhou (int. railway),350,2023,5,224
+ASIA PACIFIC,CHINA,2. Under construction,Huaibei - Fuyang,350,2023,5,230
+ASIA PACIFIC,CHINA,2. Under construction,Bazhong - Nanchong,250,2023,5,152
+ASIA PACIFIC,CHINA,2. Under construction,Laixi - Rongcheng (intercity railway),350,2023,5,192
+ASIA PACIFIC,CHINA,2. Under construction,Yulin - Cenxi,350,2023,5,111
+ASIA PACIFIC,CHINA,2. Under construction,Chongzuo - Pingxiang,250,2023,5,81
+ASIA PACIFIC,CHINA,2. Under construction,Taicang - Situan,200,2024,112
+ASIA PACIFIC,CHINA,2. Under construction,Guangzhou - Zhanjiang,350,2024,400
+ASIA PACIFIC,CHINA,2. Under construction,Hepu - Zhanjiang,350,2024,137
+ASIA PACIFIC,CHINA,2. Under construction,Puyang - Ji'nan,350,2024,208
+ASIA PACIFIC,CHINA,2. Under construction,Mile - Mengzi,250,2024,130
+ASIA PACIFIC,CHINA,2. Under construction,Chaohu - Ma'anshan (intercity railway),250,2024,75
+ASIA PACIFIC,CHINA,2. Under construction,Huangbei - Suzhou - Bengbu (intercity railway),350,2024,160
+ASIA PACIFIC,CHINA,2. Under construction,Weifang - Yantai (intercity railway),350,2024,237
+ASIA PACIFIC,CHINA,2. Under construction,Longchuan - Meizhou,350,2024,96
+ASIA PACIFIC,CHINA,2. Under construction,Jining - Datong - Yuanping,250,2024,5,270
+ASIA PACIFIC,CHINA,2. Under construction,Xi'an - Yan'an,350,2024,5,292
+ASIA PACIFIC,CHINA,2. Under construction,Yichang - Zhengwan HS (tie line),350,2024,5,109
+ASIA PACIFIC,CHINA,2. Under construction,Chongqing - Fuling,350,2024,5,69
+ASIA PACIFIC,CHINA,2. Under construction,Shenyang - Baihe,350,2024,5,429
+ASIA PACIFIC,CHINA,2. Under construction,Shanghai - Suzhou - Huzhou,350,2024,5,163
+ASIA PACIFIC,CHINA,2. Under construction,Fuling - Wanzhou,350,2024,5,183
+ASIA PACIFIC,CHINA,2. Under construction,Chongqing - Kunming,350,2025,699
+ASIA PACIFIC,CHINA,2. Under construction,Chengdu - Dazhou - Wanzhou,350,2025,488
+ASIA PACIFIC,CHINA,2. Under construction,Liu'an - Anqing,250,2025,168
+ASIA PACIFIC,CHINA,2. Under construction,Shenzhen - Jiangmen,250,2025,5,116
+ASIA PACIFIC,CHINA,2. Under construction,Lanzhou - Hezuo,200,2026,184
+ASIA PACIFIC,CHINA,2. Under construction,Xining - Huangshengguan,200,2027,5,502
+ASIA PACIFIC,CHINA,3. Planned,Tianjin - Weifang,350,2025,350
+ASIA PACIFIC,CHINA,3. Planned,Shanghai - Hangzhou,350,2025,193
+ASIA PACIFIC,CHINA,3. Planned,Zhangzhou - Shantou,350,2025,167
+ASIA PACIFIC,CHINA,3. Planned,Shenzhen - Shanwei,350,2025,126
+ASIA PACIFIC,CHINA,3. Planned,Xiong'an - Shangqiu,350,2025,638
+ASIA PACIFIC,CHINA,3. Planned,Jiujiang - Nanchang,350,2025,137
+ASIA PACIFIC,CHINA,3. Planned,Xiangyang - Jingmen,350,2025,117
+ASIA PACIFIC,CHINA,3. Planned,Shaoyang - Yongzhou,250,2025,91
+ASIA PACIFIC,CHINA,3. Planned,Xiong'an - Xinzhou,350,2025,343
+ASIA PACIFIC,CHINA,3. Planned,Baotou - Huinong,250,2025,440
+ASIA PACIFIC,CHINA,3. Planned,Wuhan - Hefei,350,2025,332
+ASIA PACIFIC,CHINA,3. Planned,Wuhan - Jingmen - Yichang,350,2025,296
+ASIA PACIFIC,CHINA,3. Planned,Wuhan hub through line,350,2025,121
+ASIA PACIFIC,CHINA,3. Planned,Changsha - Zhangzhou,350,2025,421
+ASIA PACIFIC,CHINA,3. Planned,Ha'erbin - Suihua - Tieli,250,2025,190
+ASIA PACIFIC,CHINA,3. Planned,Xi'an - Shiyan,350,2025,257
+ASIA PACIFIC,CHINA,3. Planned,Nanjing - Ma'anshan,250,2025,65
+ASIA PACIFIC,CHINA,3. Planned,Nangang - Yilan,-,2030,77
+ASIA PACIFIC,CHINA,4. Long-term planning,Wenzhou - Fuzhou,350,After 2025,290
+ASIA PACIFIC,CHINA,4. Long-term planning,Weifang - Suqian,350,After 2025,342
+ASIA PACIFIC,CHINA,4. Long-term planning,Fuyang - Macheng - Huanggang,350,After 2025,325
+ASIA PACIFIC,CHINA,4. Long-term planning,Guangzhou - Zhuhai - Macao (& Guig. - Nang. t. l.),350,After 2025,358
+ASIA PACIFIC,CHINA,4. Long-term planning,Yichang - Changde,350,After 2025,212
+ASIA PACIFIC,CHINA,4. Long-term planning,Yiyang - Loudi,250,After 2025,109
+ASIA PACIFIC,CHINA,4. Long-term planning,Xi'an - Ankang,350,After 2025,170
+ASIA PACIFIC,CHINA,4. Long-term planning,Chongqing - Ankang,350,After 2025,540
+ASIA PACIFIC,CHINA,4. Long-term planning,Baotou - Ordos,350,After 2025,130
+ASIA PACIFIC,CHINA,4. Long-term planning,Ordos - Yan'an,350,After 2025,390
+ASIA PACIFIC,CHINA,4. Long-term planning,Taiyuan - Suide,350,After 2025,270
+ASIA PACIFIC,CHINA,4. Long-term planning,Hefei - Nanjing - Shanghai,350,After 2025,532
+ASIA PACIFIC,CHINA,4. Long-term planning,Fuling - Yichang,350,After 2025,430
+ASIA PACIFIC,CHINA,4. Long-term planning,Chengdu - Chongqing (midline),350,After 2025,275
+ASIA PACIFIC,CHINA,4. Long-term planning,Dunhua - Mudanjiang,250,After 2025,190
+ASIA PACIFIC,CHINA,4. Long-term planning,Nantong - Suzhou - Jiaxing,350,After 2025,208
+ASIA PACIFIC,CHINA,4. Long-term planning,Jiaxing - Ningbo (cross-sea project),350,After 2025,90
+ASIA PACIFIC,CHINA,4. Long-term planning,Wuwei - Zhangye,250,After 2025,244
+ASIA PACIFIC,CHINA,4. Long-term planning,Tianjin - Chengde (intercity railway),350,After 2025,234
+ASIA PACIFIC,CHINA,4. Long-term planning,Yancheng - Taizhou - Wuxi - Changz. - Yixing,250,After 2025,358
+ASIA PACIFIC,CHINA,4. Long-term planning,Zhenjiang - Xuancheng,250,After 2025,173
+ASIA PACIFIC,CHINA,4. Long-term planning,Nanjing - Shangyuanmen (cross. Yangzi river),250,After 2025,17
+ASIA PACIFIC,CHINA,4. Long-term planning,Nanjing - Chuzhou - Bengbu (intercity railway),250,After 2025,197
+ASIA PACIFIC,CHINA,4. Long-term planning,Jinhua - Yiwu (intercity railway),350,After 2025,52
+ASIA PACIFIC,CHINA,4. Long-term planning,Guangzhou - Zhongshan - Zhujiang - Macao (i. r.),350,After 2025,85
+ASIA PACIFIC,CHINA,4. Long-term planning,Mianyang - Suining - Neijiang (i. r.),250,After 2025,257
+ASIA PACIFIC,CHINA,4. Long-term planning,Changchun - Liaoyuan - Tonghua,250,After 2025,255
+ASIA PACIFIC,CHINA,4. Long-term planning,Jinan - Binzhou,350,After 2025,146
+ASIA PACIFIC,CHINA,4. Long-term planning,Jiaozuo - Luoyang - Pingdingshan,350,After 2025,255
+ASIA PACIFIC,INDIA,2. Under construction,Mumbai - Ahmedabad,320,2023,508
+ASIA PACIFIC,INDIA,4. Long-term planning,Delhi - Varanasi,-,-,855
+ASIA PACIFIC,INDIA,4. Long-term planning,Varanasi - Patna,-,-,250
+ASIA PACIFIC,INDIA,4. Long-term planning,Patna - Kolkata,-,-,530
+ASIA PACIFIC,INDIA,4. Long-term planning,Delhi - Udaipur - Ahmedabad,-,-,886
+ASIA PACIFIC,INDIA,4. Long-term planning,Hyderabad - Bangalore,-,-,618
+ASIA PACIFIC,INDIA,4. Long-term planning,Nagpur - Varanasi,-,-,855
+ASIA PACIFIC,INDIA,4. Long-term planning,Mumbai - Nagpur,-,-,789
+ASIA PACIFIC,INDIA,4. Long-term planning,Mumbai - Hyderabad,-,-,709
+ASIA PACIFIC,INDIA,4. Long-term planning,Patna - Guwahati,-,-,850
+ASIA PACIFIC,INDIA,4. Long-term planning,Delhi - Chandigarh - Amritsar,-,-,485
+ASIA PACIFIC,INDIA,4. Long-term planning,Amritsar - Pathankot - Jammu,-,-,190
+ASIA PACIFIC,INDIA,4. Long-term planning,Chennai - Bangalore - Mysuru,-,-,462
+ASIA PACIFIC,INDONESIA,2. Under construction,Jakarta - Bandung,300,2021,142
+ASIA PACIFIC,INDONESIA,3. Planned,Bandung - Surabaya,300,2022,570
+ASIA PACIFIC,THAILAND,2. Under construction,Bangkok - Nakhon Ratchasima,250,2023,253
+ASIA PACIFIC,THAILAND,3. Planned,Bangkok - Hua Hin,250,-,211
+ASIA PACIFIC,THAILAND,3. Planned,3 Airports Link,250,2024,220
+ASIA PACIFIC,THAILAND,4. Long-term planning,Bangkok - Phitsanulok,300,2025,380
+ASIA PACIFIC,THAILAND,4. Long-term planning,Nakhon Ratchasima - Vientiane,250,2026,355
+ASIA PACIFIC,THAILAND,4. Long-term planning,Phitsanulok - Chiang Mai,300,-,288
+ASIA PACIFIC,THAILAND,4. Long-term planning,Hua Hin - Padang Besar,250,-,765
+ASIA PACIFIC,THAILAND,4. Long-term planning,U Tapao - Rayong  Trat,-,-,170
+ASIA PACIFIC,VIETNAM,3. Planned,Hanoi - Hô Chi Minh,350,2050,1600
+ASIA PACIFIC,JAPAN,1. In operation,Tokyo - Shin Osaka (Tokaido),285,1964,515
+ASIA PACIFIC,JAPAN,1. In operation,Shin Osaka - Okayama (San-yo),300,1972,161
+ASIA PACIFIC,JAPAN,1. In operation,Okayama - Hakata (San-yo),300,1975,393
+ASIA PACIFIC,JAPAN,1. In operation,Omiya - Morioka (Tohoku),320,1982,465
+ASIA PACIFIC,JAPAN,1. In operation,Omiya - Niigata (Joetsu),240,1982,270
+ASIA PACIFIC,JAPAN,1. In operation,Ueno - Omiya (Tohoku),110,1985,28
+ASIA PACIFIC,JAPAN,1. In operation,Tokyo - Ueno (Tohoku),70,1991,4
+ASIA PACIFIC,JAPAN,1. In operation,Fukushima - Yamagata (Yamagata),130,1992,87
+ASIA PACIFIC,JAPAN,1. In operation,Morioka - Akita (Akita),130,1997,127
+ASIA PACIFIC,JAPAN,1. In operation,Takasaki - Nagano (Hokuriku),260,1997,117
+ASIA PACIFIC,JAPAN,1. In operation,Yamagata - Shinjo (Yamagata),130,1999,62
+ASIA PACIFIC,JAPAN,1. In operation,Morioka - Hachinohe (Tohoku),260,2002,97
+ASIA PACIFIC,JAPAN,1. In operation,Shin Yatsuhiro - Kagoshima Chuo (Kyushu),260,2004,127
+ASIA PACIFIC,JAPAN,1. In operation,Hachinohe - Shin Aomori (Tohoku),260,2010,82
+ASIA PACIFIC,JAPAN,1. In operation,Hakata - Shin Yatsushiro (Kyushu),260,2011,130
+ASIA PACIFIC,JAPAN,1. In operation,Nagano - Kanazawa (Hokuriku),260,2015,228
+ASIA PACIFIC,JAPAN,1. In operation,Shin Aomori - Shin Hakodate (Hokkaido),260,2016,149
+ASIA PACIFIC,JAPAN,2. Under construction,Takeo Onsen - Isahaya (Kyushu),-,2022,45
+ASIA PACIFIC,JAPAN,2. Under construction,Isahaya - Nagasaki (Kyushu),-,2022,21
+ASIA PACIFIC,JAPAN,2. Under construction,Kanazawa - Tsuruga (Hokuriku),-,2023,125
+ASIA PACIFIC,JAPAN,2. Under construction,Shinagawa - Nagoya (Chuo),505,2027,286
+ASIA PACIFIC,JAPAN,2. Under construction,Shin Hakodate - Sapporo (Hokkaido),-,2031,211
+ASIA PACIFIC,JAPAN,3. Planned,Nagoya - Osaka (Chuo),505,2045,152
+ASIA PACIFIC,JAPAN,3. Planned,Tsuruga - Shin Osaka (Hokuriku),-,2046,143
+ASIA PACIFIC,JAPAN,3. Planned,Shin Tosu - Takeo Onsen (Kyushu),-,-,51
+ASIA PACIFIC,SOUTH KOREA,1. In operation,Seoul - Dongdaegu,305,2004,288
+ASIA PACIFIC,SOUTH KOREA,1. In operation,Dongdaegu - Busan,305,2010,130
+ASIA PACIFIC,SOUTH KOREA,1. In operation,Osong - Gwangju,305,2015,184
+ASIA PACIFIC,SOUTH KOREA,1. In operation,Suseo - Pyoengtaek,305,2016,61
+ASIA PACIFIC,SOUTH KOREA,1. In operation,Seoul - Gangneung,250,2017,230
+ASIA PACIFIC,SOUTH KOREA,2. Under construction,Gwangjiu - Mokpo,300,2025,49
+EUROPE,AUSTRIA,1. In operation,Linz - Wels,200,1990,24
+EUROPE,AUSTRIA,1. In operation,St. Pölten - Ybbs,200,2001,44
+EUROPE,AUSTRIA,1. In operation,Amstetten - St. Valentin,200,2003,37
+EUROPE,AUSTRIA,1. In operation,St. Valentin - Asten-St. Florian,230,2007,16
+EUROPE,AUSTRIA,1. In operation,Vienna Knot Hadersdorf - St. Pölten,230,2012,50
+EUROPE,AUSTRIA,1. In operation,Radfeld Knot - Baumkirchen Knot,220,2012,36
+EUROPE,AUSTRIA,1. In operation,Wels - Attnang-Puchheim,230,2012,30
+EUROPE,AUSTRIA,1. In operation,Ybbs - Amstetten,230,2016,17
+EUROPE,AUSTRIA,2. Under construction,Vienna Stadlau - Slovakian border,200,2022,38
+EUROPE,AUSTRIA,2. Under construction,Vienna Inzersdorf Ort - Wr. Neustadt,200,2023,47
+EUROPE,AUSTRIA,2. Under construction,Graz - Klagenfurt,250,2025,122
+EUROPE,AUSTRIA,2. Under construction,Gloggnitz - Mürzzuschlag,230,2026,28
+EUROPE,AUSTRIA,2. Under construction,Volders-Baumkirchen - Italian border,250,2027,46
+EUROPE,AUSTRIA,3. Planned,Linz - Wels,230,2026,24
+EUROPE,AUSTRIA,3. Planned,Gänserndorf - Czech border,200,2028,47
+EUROPE,SWITZERLAND,1. In operation,Mattstetten - Rothrist,200,2004,43
+EUROPE,SWITZERLAND,1. In operation,Solothurn - Wanzwil,200,2004,12
+EUROPE,SWITZERLAND,1. In operation,Frutigen - Visp (Lötschberg base tunnel),200,2007,40
+EUROPE,SWITZERLAND,1. In operation,Erstfeld - Biasca (Gotthard base tunnel),200,2016,65
+EUROPE,SWITZERLAND,1. In operation,Giubiasco/S. Antonino - Vezia (Ceneri base tunnel),200,2020,18
+EUROPE,BELGIUM,1. In operation,Brussels - French border,300,1997,72
+EUROPE,BELGIUM,1. In operation,Leuven - Liège,300,2002,65
+EUROPE,BELGIUM,1. In operation,Liège - German border,260,2009,36
+EUROPE,BELGIUM,1. In operation,Antwerp - Dutch border,300,2009,36
+EUROPE,THE NETHERLANDS,1. In operation,Hoofddorp - Rotterdam West,300,2006,44,3
+EUROPE,THE NETHERLANDS,1. In operation,Rotterdam Lombardijen - Belgian border,300,2006,45,4
+EUROPE,CZECH REPUBLIC,3. Planned,Plzeň - Domažlice - German border,200,2027,58
+EUROPE,CZECH REPUBLIC,3. Planned,Prague - Poříčany ( - Brno),320,2028,22
+EUROPE,CZECH REPUBLIC,3. Planned,Prague - Poříčany ( - Hradec Králové),320,2028,29
+EUROPE,CZECH REPUBLIC,3. Planned,Šakvice - Břeclav - (A / SK border),200,2028,23
+EUROPE,CZECH REPUBLIC,3. Planned,Přerov - Ostrava,320,2029,73
+EUROPE,CZECH REPUBLIC,3. Planned,Modřice - Šakvice,320,2029,35
+EUROPE,CZECH REPUBLIC,3. Planned,Brno - Přerov,200,2030,80
+EUROPE,CZECH REPUBLIC,3. Planned,Prague - Litoměřice,320,2030,58
+EUROPE,CZECH REPUBLIC,3. Planned,Poříčany - Světlá nad Sázavou,320,2031,71
+EUROPE,CZECH REPUBLIC,3. Planned,Velká Bíteš - Brno,320,2031,32
+EUROPE,CZECH REPUBLIC,3. Planned,Světlá nad Sázavou - Velká Bíteš,320,2034,81
+EUROPE,CZECH REPUBLIC,3. Planned,Prague - Beroun,200,2043,25
+EUROPE,CZECH REPUBLIC,3. Planned,Litoměřice - Ústí nad Labem,250,2045,23
+EUROPE,CZECH REPUBLIC,3. Planned,Ústí nad Labem - Dresden,200,-,56
+EUROPE,CZECH REPUBLIC,4. Long-term planning,Poříčany - Hradec Králové,320,2040,67
+EUROPE,CZECH REPUBLIC,4. Long-term planning,Odb. Veltrusy - Most,250,2040,85
+EUROPE,CZECH REPUBLIC,4. Long-term planning,Hradec Králové - Trutnov - Polish border,250,2050,69
+EUROPE,CZECH REPUBLIC,4. Long-term planning,Brno - Přerov,320,2050,74
+EUROPE,CZECH REPUBLIC,4. Long-term planning,Šakvice - Břeclav,320,2050,23
+EUROPE,CZECH REPUBLIC,4. Long-term planning,Ostrava - Bohumín - Polish border,200,-,21
+EUROPE,DENMARK,1. In operation,Copenhagen - Ringsted,250,2019,56
+EUROPE,NORWAY,4. Long-term planning,Sandbukta - Fredrikstad,250,-,34
+EUROPE,NORWAY,4. Long-term planning,Gardermoen - Hamar,250,-,74
+EUROPE,NORWAY,4. Long-term planning,Drammen - Tønsberg,250,-,60
+EUROPE,NORWAY,4. Long-term planning,Fredrikstad - Halden,250,-,39
+EUROPE,NORWAY,4. Long-term planning,Hamar - Lillehammer,250,-,54
+EUROPE,NORWAY,4. Long-term planning,Tønsberg - Skien,250,-,72
+EUROPE,ESTONIA,3. Planned,Tallinn - Latvian border,249,2026,213
+EUROPE,LATVIA,3. Planned,Estonian border - Lithuanian border,249,2026,265
+EUROPE,LITHUANIA,3. Planned,Latvian border - Polish Border,249,2026,252
+EUROPE,LITHUANIA,3. Planned,Kaunas - Vilnius,249,2026,140
+EUROPE,FINLAND,1. In operation,Helsinki - Turku,200,1995,156
+EUROPE,FINLAND,1. In operation,Helsinki - Oulu,200,2001,673
+EUROPE,FINLAND,1. In operation,Jämsänkoski - Jyväskylä,200,2001,53
+EUROPE,FINLAND,1. In operation,Kinni - Otava,200,2006,44
+EUROPE,FINLAND,1. In operation,Kerava - Lahti,220,2006,63
+EUROPE,FINLAND,1. In operation,Lahti - Luumäki,200,2009,131
+EUROPE,FRANCE,1. In operation,LGV Paris Sud-Est,300   1981 / 1983,,425
+EUROPE,FRANCE,1. In operation,LGV Atlantique,300   1989 / 1990,,292
+EUROPE,FRANCE,1. In operation,LGV Rhône - Alpes (rail bypass of Lyon),300  1992 / 1994,,122
+EUROPE,FRANCE,1. In operation,LGV Nord (inc. London - Brussels link),300   1994 / 1996,,346
+EUROPE,FRANCE,1. In operation,LGV Interconnexion Est IDF,300   1994 / 1996,,105
+EUROPE,FRANCE,1. In operation,LGV Méditerranée,300,2001,259
+EUROPE,FRANCE,1. In operation,LGV Est Europe (first phase),320,2007,335
+EUROPE,FRANCE,1. In operation,Perpignan - Spanish border (Figueres),300,2010,24
+EUROPE,FRANCE,1. In operation,LGV Rhin-Rhône Branche Est (first phase),320,2011,146
+EUROPE,FRANCE,1. In operation,LGV Est Europe (second phase),320,2016,122
+EUROPE,FRANCE,1. In operation,LGV Bretagne Pays de la Loire (BPL),320,2017,219
+EUROPE,FRANCE,1. In operation,LGV Tours - Bordeaux (SEA),320,2017,340
+EUROPE,GERMANY,1. In operation,Hannover - Würzburg,280,1991,327
+EUROPE,GERMANY,1. In operation,Mannheim - Stuttgart,280,1991,99
+EUROPE,GERMANY,1. In operation,Hannover - Berlin,250,1998,150
+EUROPE,GERMANY,1. In operation,(Cologne) - Siegburg - Frankfurt,300,2002,144
+EUROPE,GERMANY,1. In operation,Cologne - Düren,250,2003,39
+EUROPE,GERMANY,1. In operation,Hamburg - Berlin,230,2004,286
+EUROPE,GERMANY,1. In operation,(Karlsruhe) - Rastatt Süd - Offenburg - (Basel),250,2004,44
+EUROPE,GERMANY,1. In operation,Nuremberg - Ingolstadt,300,2006,89
+EUROPE,GERMANY,1. In operation,Munich - Augsburg,230,2011,62
+EUROPE,GERMANY,1. In operation,(Karlsruhe) - Katzenberg Tunnel - (Basel),250,2012,18
+EUROPE,GERMANY,1. In operation,Erfurt - Leipzig/Halle,300,2015,123
+EUROPE,GERMANY,1. In operation,Ebensfeld - Erfurt,300,2017,107
+EUROPE,GERMANY,1. In operation,Nuremberg - Ebensfeld,230,2017,83
+EUROPE,GERMANY,2. Under construction,Wendlingen - Ulm,250,2022,60
+EUROPE,GERMANY,2. Under construction,Stuttgart - Wendlingen,250,2024,25
+EUROPE,GERMANY,2. Under construction,Karlsruhe - Rastatt - (Basel),250,2024,17
+EUROPE,GERMANY,2. Under construction,Buggingen - Katzenberg tunnel - (Basel),250,2025,32
+EUROPE,GERMANY,2. Under construction,(Karlsruhe) - Katzenberg tunnel - Basel,250,2025,13
+EUROPE,GERMANY,3. Planned,(Karlsruhe) - Riegel - Buggingen - (Basel),200,2031,41
+EUROPE,GERMANY,3. Planned,(Karlsruhe) - Offenburg - Riegel - (Basel),250,2035,40
+EUROPE,GERMANY,4. Long-term planning,Frankfurt - Mannheim,300,-,84
+EUROPE,GERMANY,4. Long-term planning,(Frankfurt -) Hanau  - Fulda/Würzburg,300,-,126
+EUROPE,ITALY,1. In operation,Rome  - Florence (First section),250,1977,122
+EUROPE,ITALY,1. In operation,Rome  - Florence (Second section),250,1985,52
+EUROPE,ITALY,1. In operation,Rome  - Florence (Third section),250,1986,20
+EUROPE,ITALY,1. In operation,Rome  - Florence (Forth section),250,1992,44
+EUROPE,ITALY,1. In operation,Turin - Novara,300,2006,86
+EUROPE,ITALY,1. In operation,Padova - Venice,220,2007,25
+EUROPE,ITALY,1. In operation,Milan - Bologna,300,2008,182
+EUROPE,ITALY,1. In operation,Naples - Salerno,250,2008,29
+EUROPE,ITALY,1. In operation,Rome - Naples,300,2009,205
+EUROPE,ITALY,1. In operation,Novara - Milan,300,2009,38
+EUROPE,ITALY,1. In operation,Florence - Bologna,300,2009,78
+EUROPE,ITALY,1. In operation,Milan (Treviglio) - Brescia,300,2016,40
+EUROPE,ITALY,2. Under construction,Genoa - Milan (Tortona),250,2022,53
+EUROPE,ITALY,2. Under construction,Brescia - Verona,300,-,45
+EUROPE,ITALY,2. Under construction,Naples - Bari,200,-,150
+EUROPE,ITALY,2. Under construction,Verona - Padova,250,-,79
+EUROPE,POLAND,1. In operation,Grodzisk Mazowiecki  - Zawiercie,200,2015,224
+EUROPE,POLAND,3. Planned,Warsaw - Poznan - Wroclaw,350,2030,448
+EUROPE,POLAND,3. Planned,Warsaw - Bialystok - Ełk,200,2030,277
+EUROPE,POLAND,3. Planned,Elk - Lithuanian border (Rail Baltica),250,2030,80
+EUROPE,POLAND,4. Long-term planning,Knapówka - Katowice/Kraków,300,>2030,138
+EUROPE,POLAND,4. Long-term planning,Wroclaw - Czech border,350,>2030,148
+EUROPE,POLAND,4. Long-term planning,Poznan - German border,350,>2030,171
+EUROPE,POLAND,4. Long-term planning,Katowice - Czech border,300,>2030,61
+EUROPE,POLAND,4. Long-term planning,Warsaw - Toruń - Gdańsk,350,>2030,357
+EUROPE,PORTUGAL,3. Planned,Lisbon - Porto,-,2030,314
+EUROPE,RUSSIA,3. Planned,St. Petersburg - Moscow - Nizhnij Novgorod,350,2024,1080
+EUROPE,SERBIA,2. Under construction,Belgrade - Novi Sad,200,2021,76
+EUROPE,SERBIA,3. Planned,Belgrade - Niš,200,2023,204
+EUROPE,SPAIN,1. In operation,Madrid - Sevilla,270,1992,471
+EUROPE,SPAIN,1. In operation,Madrid - Lleida,300,2003,467
+EUROPE,SPAIN,1. In operation,Zaragoza - Huesca,200,2003,79
+EUROPE,SPAIN,1. In operation,(Madrid -) La Sagra - Toledo,220,2005,21
+EUROPE,SPAIN,1. In operation,Córdoba - Antequera-Santa Ana,300,2006,111
+EUROPE,SPAIN,1. In operation,Lleida - Camp de Tarragona,300,2006,96
+EUROPE,SPAIN,1. In operation,Madrid - Segovia - Olmedo - Valladolid,300,2007,178
+EUROPE,SPAIN,1. In operation,Antequera-Santa Ana - Málaga,300,2007,58
+EUROPE,SPAIN,1. In operation,Camp de Tarragona - Barcelona,300,2008,100
+EUROPE,SPAIN,1. In operation,By pass Madrid,200,2009,5
+EUROPE,SPAIN,1. In operation,Santiago - A Coruña,250,2009,61
+EUROPE,SPAIN,1. In operation,(Madrid -) Torrejón de Velasco - Valencia,300,2010,362
+EUROPE,SPAIN,1. In operation,Albacete Junction - Albacete,300,2010,73
+EUROPE,SPAIN,1. In operation,Figueres - French border (- Perpignan),300,2010,20
+EUROPE,SPAIN,1. In operation,Ourense - Santiago,300,2011,85
+EUROPE,SPAIN,1. In operation,By pass Yeles,200,2012,6
+EUROPE,SPAIN,1. In operation,Barcelona - Figueres,300,2013,131
+EUROPE,SPAIN,1. In operation,Albacete - Alicante/Alacant,300,2013,165
+EUROPE,SPAIN,1. In operation,Santiago - Vigo,200,2015,95
+EUROPE,SPAIN,1. In operation,Sevilla - Cádiz,250,2015,153
+EUROPE,SPAIN,1. In operation,Valladolid - León,300,2015,166
+EUROPE,SPAIN,1. In operation,Olmedo - Zamora,300,2015,99
+EUROPE,SPAIN,1. In operation,Valencia - Vandellós,220,2019,219
+EUROPE,SPAIN,1. In operation,Antequera-Santa Ana - Granada,250,2019,109
+EUROPE,SPAIN,1. In operation,Vandellós - Tarragona,200,2020,47
+EUROPE,SPAIN,1. In operation,Zamora - Pedralba,300,2020,110
+EUROPE,SPAIN,2. Under construction,Monforte del Cid - Murcia,300,2021,64
+EUROPE,SPAIN,2. Under construction,Venta de Baños - Burgos,300,2021,91
+EUROPE,SPAIN,2. Under construction,León - Pola de Lena (Pajares New pass),250,2021,76
+EUROPE,SPAIN,2. Under construction,Navalmoral - Plasencia - Badajoz,300,2021,246
+EUROPE,SPAIN,2. Under construction,Pedralba - Ourense,300,2021,113
+EUROPE,SPAIN,2. Under construction,Vitoria Gasteiz - Bilbao / San Sebastián,250,2028,175
+EUROPE,SPAIN,2. Under construction,Murcia - Almería,300,-,188
+EUROPE,SPAIN,2. Under construction,Castejón - Pamplona,300,-,75
+EUROPE,SPAIN,2. Under construction,La Encina - Valencia,300,-,107
+EUROPE,SPAIN,3. Planned,Burgos - Vitoria,300,-,110
+EUROPE,SPAIN,3. Planned,Madrid - Navalmoral,300,-,223
+EUROPE,SPAIN,3. Planned,Palencia - Reinosa,300,-,124
+EUROPE,SPAIN,3. Planned,Zaragoza - Castejón,250,-,82
+EUROPE,SPAIN,3. Planned,Ourense - Vigo (vía Cerdedo),250,-,60
+EUROPE,SPAIN,3. Planned,Sevilla - Huelva,300,-,102
+EUROPE,SPAIN,3. Planned,Teruel - Zaragoza,250,-,166
+EUROPE,SPAIN,3. Planned,Castejón - Logroño,220,-,76
+EUROPE,SWEDEN,1. In operation,Stockholm - Örebro,200,1999,187
+EUROPE,SWEDEN,1. In operation,Gothenburg - Lund,200,2008,283
+EUROPE,SWEDEN,1. In operation,Nyland - Umeå,200,2009,180
+EUROPE,SWEDEN,1. In operation,Sundsvall - Nyland,200,2010,30
+EUROPE,SWEDEN,1. In operation,Gothenburg - Kornsjø,200,2012,180
+EUROPE,SWEDEN,2. Under construction,Umeå - Dåvå,250,2024,12
+EUROPE,SWEDEN,2. Under construction,Lund - Arlöv,200,2024,11
+EUROPE,SWEDEN,2. Under construction,Varberg - Hamra (Varbergtunnel),200,2025,7
+EUROPE,SWEDEN,2. Under construction,Ängelholm - Maria,200,2025,24
+EUROPE,SWEDEN,2. Under construction,Järna - Linköping,250,2035,160
+EUROPE,SWEDEN,3. Planned,Dingersjö - Sundsvall,250,2028,14
+EUROPE,SWEDEN,3. Planned,Myrbacken - Uppsala,200,2029,30
+EUROPE,SWEDEN,3. Planned,Gävle - Kringlan,200,2032,40
+EUROPE,SWEDEN,3. Planned,Dåvå - Skelefteå,250,2033,120
+EUROPE,SWEDEN,3. Planned,Gothenburg - Borås (New HSL line),250,2035,60
+EUROPE,SWEDEN,3. Planned,Hässleholm - Lund (New HSL line),320,2035,70
+EUROPE,SWEDEN,3. Planned,Maria - Helsingborg,200,2035,4
+LATIN AMERICA,BRAZIL,4. Long-term planning,Rio de Janeiro - São Paulo - Campinas,300,-,511
+LATIN AMERICA,CHILE,4. Long-term planning,Santiago - Valparaíso,220,-,127
+MIDDLE EAST,BAHREIN,4. Long-term planning,Doha - Manama,350,-,180
+MIDDLE EAST,IRAN,2. Under construction,Tehran - Qom - Esfahan,250   2023 / 2024,,410
+MIDDLE EAST,IRAN,2. Under construction,Tehran - Mashhad,200,2025,926
+MIDDLE EAST,IRAN,3. Planned,Qom - Arak,250,2025,117
+MIDDLE EAST,IRAN,4. Long-term planning,Tehran - Hamedan,-,-,284
+MIDDLE EAST,IRAN,4. Long-term planning,Tehran - Zanjan - Tabriz,-,-,613
+MIDDLE EAST,IRAN,4. Long-term planning,Esfahan - Shiraz,-,-,470
+MIDDLE EAST,IRAN,4. Long-term planning,Esfahan - Yazd,-,-,284
+MIDDLE EAST,ISRAEL,3. Planned,Tel Aviv - Haifa,250,-,85
+MIDDLE EAST,SAUDI ARABIA,1. In operation,Medina - Jeddah - Mecca,300,2018,449
+MIDDLE EAST,TURKEY,1. In operation,(Ankara) Sincan - Eskisehir,250,2009,232
+MIDDLE EAST,TURKEY,1. In operation,(Ankara) Polatli - Konya,250,2011,212
+MIDDLE EAST,TURKEY,1. In operation,Eskisehir - İzmit - Pendik (Istanbul),250,2014,257
+MIDDLE EAST,TURKEY,1. In operation,Kayseri North Passage,160,2016,23
+MIDDLE EAST,TURKEY,2. Under construction,(Ankara) Kayaş - Sivas,300,-,394
+MIDDLE EAST,TURKEY,2. Under construction,Mersin - Adana - Gaziantep,200,-,303
+MIDDLE EAST,TURKEY,2. Under construction,Konya - Karaman - Ulukişla,200,-,237
+MIDDLE EAST,TURKEY,2. Under construction,Çerkezköy - Kapikule (Bulgarian border),200,-,153
+MIDDLE EAST,TURKEY,2. Under construction,(Ankara) Polatlı - Uşak - Izmir,250,-,550
+MIDDLE EAST,TURKEY,2. Under construction,Bursa - Osmaneli,200,-,106
+MIDDLE EAST,TURKEY,3. Planned,Eskişehir - Antalya,200,-,428
+MIDDLE EAST,TURKEY,3. Planned,Delice (Kırıkkale) - Samsun,200,-,293
+MIDDLE EAST,TURKEY,3. Planned,Erzincan - Kars,200,-,382
+MIDDLE EAST,TURKEY,3. Planned,Kayseri - Antalya,200,-,541
+MIDDLE EAST,TURKEY,3. Planned,Gaziantep - Mardin,200,-,300
+NORTH AMERICA,USA,1. In operation,NE Corridor (Boston - New York - Washington),240,2000,735
+NORTH AMERICA,USA,2. Under construction,San Francisco - Fresno - Bakersfield,350,2025,563
+NORTH AMERICA,USA,3. Planned,Las Vegas - Victorville,240,2023,270
+NORTH AMERICA,USA,3. Planned,Houston - Dallas,330,2026,385
+NORTH AMERICA,USA,3. Planned,Bakersfield - Anaheim,350,2033,269
+NORTH AMERICA,USA,3. Planned,NEC Future (Boston - New York - Washington DC),350,2040,735
+NORTH AMERICA,USA,4. Long-term planning,Merced - Sacramento,400,-,180
+NORTH AMERICA,USA,4. Long-term planning,Los Angeles - San Diego,-,-,269
+NORTH AMERICA,USA,4. Long-term planning,Vancouver - Seattle - Portland,-,-,509
+NORTH AMERICA,USA,4. Long-term planning,Tampa - Orlando,-,-,137
+NORTH AMERICA,USA,4. Long-term planning,Chicago - Milwaukee,-,-,149
+NORTH AMERICA,USA,4. Long-term planning,Atlanta - Charlotte,-,-,370
+NORTH AMERICA,USA,4. Long-term planning,Louisville - Nashville,-,-,241
+NORTH AMERICA,USA,4. Long-term planning,Denver - Albuquerque,-,-,560
+NORTH AMERICA,USA,4. Long-term planning,Chicago - St. Louis,-,-,420
+NORTH AMERICA,USA,4. Long-term planning,Tulsa - Oklahoma City,-,-,193
+NORTH AMERICA,USA,4. Long-term planning,Chicago - Detroit,-,-,455
+NORTH AMERICA,USA,4. Long-term planning,Nashville - Memphis,-,-,341
+NORTH AMERICA,USA,4. Long-term planning,Kansas City - St. Louis,-,-,399
+NORTH AMERICA,USA,4. Long-term planning,Chicago - Indianapolis,-,-,298
+NORTH AMERICA,CANADA,4. Long-term planning,Quebec - Windsor,300,-,1229
+NORTH AMERICA,CANADA,4. Long-term planning,Calgary - Edmonton,300,-,294
+NORTH AMERICA,MEXICO,3. Planned,Mexico D.F. - Querétaro,300,-,210
