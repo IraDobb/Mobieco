@@ -1,95 +1,95 @@
 Area,Country/Region,Status,Section,Max.Speed(km/h),Year,Length(km)
 EUROPE,AUSTRIA,1. In operation,Linz - Wels,200,1990,24
-EUROPE,AUSTRIA,1. In operation,St. Pölten - Ybbs,200,2001,44
+EUROPE,AUSTRIA,1. In operation,St. Plten - Ybbs,200,2001,44
 EUROPE,AUSTRIA,1. In operation,Amstetten - St. Valentin,200,2003,37
 EUROPE,AUSTRIA,1. In operation,St. Valentin - Asten-St. Florian,230,2007,16
-EUROPE,AUSTRIA,1. In operation,Vienna Knot Hadersdorf - St. Pölten,230,2012,50
+EUROPE,AUSTRIA,1. In operation,Vienna Knot Hadersdorf - St. Plten,230,2012,50
 EUROPE,AUSTRIA,1. In operation,Radfeld Knot - Baumkirchen Knot,220,2012,36
 EUROPE,AUSTRIA,1. In operation,Wels - Attnang-Puchheim,230,2012,30
 EUROPE,AUSTRIA,1. In operation,Ybbs - Amstetten,230,2016,17
 EUROPE,AUSTRIA,2. Under construction,Stadlau - Slovakian border,200,2022,38
 EUROPE,AUSTRIA,2. Under construction,Vienna Inzersdorf Ort - Wr. Neustadt,200,2023,47
 EUROPE,AUSTRIA,2. Under construction,Graz - Klagenfurt,250,2025,122
-EUROPE,AUSTRIA,2. Under construction,Gloggnitz - Mürzzuschlag,230,2026,28
+EUROPE,AUSTRIA,2. Under construction,Gloggnitz - Mrzzuschlag,230,2026,28
 EUROPE,AUSTRIA,2. Under construction,Volders-Baumkirchen - Italian border,250,2027,46
 EUROPE,AUSTRIA,3. Planned,Linz - Wels,230,2026,24
-EUROPE,AUSTRIA,3. Planned,Gänserndorf - Czech border,200,2028,47
+EUROPE,AUSTRIA,3. Planned,Gnserndorf - Czech border,200,2028,47
 EUROPE,SWITZERLAND,1. In operation,Mattstetten - Rothrist,200,2004,43
 EUROPE,SWITZERLAND,1. In operation,Solothurn - Wanzwil,200,2004,12
-EUROPE,SWITZERLAND,1. In operation,Frutigen - Visp (Lötschberg base tunnel),200,2007,40
+EUROPE,SWITZERLAND,1. In operation,Frutigen - Visp (Ltschberg base tunnel),200,2007,40
 EUROPE,SWITZERLAND,1. In operation,Erstfeld - Biasca (Gotthard base tunnel),200,2016,65
 EUROPE,SWITZERLAND,1. In operation,Giubiasco/S. Antonino - Vezia (Ceneri base tunnel),200,2020,18
 EUROPE,BELGIUM,1. In operation,Brussels - French border,300,1997,72
-EUROPE,BELGIUM,1. In operation,Leuven - Liège,300,2002,65
-EUROPE,BELGIUM,1. In operation,Liège - German border,260,2009,36
+EUROPE,BELGIUM,1. In operation,Leuven - Lige,300,2002,65
+EUROPE,BELGIUM,1. In operation,Lige - German border,260,2009,36
 EUROPE,BELGIUM,1. In operation,Antwerp - Dutch border,300,2009,36
 EUROPE,THE NETHERLANDS,1. In operation,Hoofddorp - Rotterdam West,300,2006,44.3
 EUROPE,THE NETHERLANDS,1. In operation,Rotterdam Lombardijen - Belgian border,300,2006,45.4
-EUROPE,CZECH REPUBLIC,3. Planned,Plze?? - Domalice - German border,200,2027,58
-EUROPE,CZECH REPUBLIC,3. Planned,Prague - Po??í??any ( - Brno),320,2028,22
-EUROPE,CZECH REPUBLIC,3. Planned,Prague - Po??í??any ( - Hradec Králové),320,2028,29
-EUROPE,CZECH REPUBLIC,3. Planned,akvice - B??eclav - (A / SK border),200,2028,23
+EUROPE,CZECH REPUBLIC,3. Planned,Plze?? - Domalice - German border,200,2027,58
+EUROPE,CZECH REPUBLIC,3. Planned,Prague - Po????any ( - Brno),320,2028,22
+EUROPE,CZECH REPUBLIC,3. Planned,Prague - Po????any ( - Hradec Krlov),320,2028,29
+EUROPE,CZECH REPUBLIC,3. Planned,akvice - B??eclav - (A / SK border),200,2028,23
 EUROPE,CZECH REPUBLIC,3. Planned,P??erov - Ostrava,320,2029,73
-EUROPE,CZECH REPUBLIC,3. Planned,Mod??ice - akvice,320,2029,35
+EUROPE,CZECH REPUBLIC,3. Planned,Mod??ice - akvice,320,2029,35
 EUROPE,CZECH REPUBLIC,3. Planned,Brno - P??erov,200,2030,80
 EUROPE,CZECH REPUBLIC,3. Planned,Prague - Litom????ice,320,2030,58
-EUROPE,CZECH REPUBLIC,3. Planned,Po??í??any - Sv??tlá nad Sázavou,320,2031,71
-EUROPE,CZECH REPUBLIC,3. Planned,Velká Bíte - Brno,320,2031,32
-EUROPE,CZECH REPUBLIC,3. Planned,Sv??tlá nad Sázavou - Velká Bíte,320,2034,81
+EUROPE,CZECH REPUBLIC,3. Planned,Po????any - Sv??tl nad Szavou,320,2031,71
+EUROPE,CZECH REPUBLIC,3. Planned,Velk Bte - Brno,320,2031,32
+EUROPE,CZECH REPUBLIC,3. Planned,Sv??tl nad Szavou - Velk Bte,320,2034,81
 EUROPE,CZECH REPUBLIC,3. Planned,Prague - Beroun,200,2043,25
-EUROPE,CZECH REPUBLIC,3. Planned,Litom????ice - Ústí nad Labem,250,2045,23
-EUROPE,CZECH REPUBLIC,4. Long-term planning,Po??í??any - Hradec Králové,320,2040,67
+EUROPE,CZECH REPUBLIC,3. Planned,Litom????ice - st nad Labem,250,2045,23
+EUROPE,CZECH REPUBLIC,4. Long-term planning,Po????any - Hradec Krlov,320,2040,67
 EUROPE,CZECH REPUBLIC,4. Long-term planning,Odb. Veltrusy - Most,250,2040,85
-EUROPE,CZECH REPUBLIC,4. Long-term planning,Hradec Králové - Trutnov - Polish border,250,2050,69
+EUROPE,CZECH REPUBLIC,4. Long-term planning,Hradec Krlov - Trutnov - Polish border,250,2050,69
 EUROPE,CZECH REPUBLIC,4. Long-term planning,Brno - P??erov,320,2050,74
-EUROPE,CZECH REPUBLIC,4. Long-term planning,akvice - B??eclav,320,2050,23
+EUROPE,CZECH REPUBLIC,4. Long-term planning,akvice - B??eclav,320,2050,23
 EUROPE,DENMARK,1. In operation,Copenhagen - Ringsted,250,2019,56
 EUROPE,ESTONIA,3. Planned,Tallinn - Latvian border,249,2026,213
 EUROPE,FINLAND,1. In operation,Helsinki - Turku,200,1995,156
 EUROPE,FINLAND,1. In operation,Helsinki - Oulu,200,2001,673
-EUROPE,FINLAND,1. In operation,Jämsänkoski - Jyväskylä,200,2001,53
+EUROPE,FINLAND,1. In operation,Jmsnkoski - Jyvskyl,200,2001,53
 EUROPE,FINLAND,1. In operation,Kinni - Otava,200,2006,44
 EUROPE,FINLAND,1. In operation,Kerava - Lahti,220,2006,63
-EUROPE,FINLAND,1. In operation,Lahti - Luumäki,200,2009,131
+EUROPE,FINLAND,1. In operation,Lahti - Luumki,200,2009,131
 EUROPE,LATVIA,3. Planned,Estonian border - Lithuanian border,249,2026,265
 EUROPE,LITHUANIA,3. Planned,Latvian border - Polish Border,249,2026,252
 EUROPE,LITHUANIA,3. Planned,Kaunas - Vilnius,249,2026,140
-EUROPE,SWEDEN,1. In operation,Stockholm - Örebro,200,1999,187
+EUROPE,SWEDEN,1. In operation,Stockholm - rebro,200,1999,187
 EUROPE,SWEDEN,1. In operation,Gothenburg - Lund,200,2008,283
-EUROPE,SWEDEN,1. In operation,Nyland - Umeå,200,2009,180
+EUROPE,SWEDEN,1. In operation,Nyland - Ume,200,2009,180
 EUROPE,SWEDEN,1. In operation,Sundsvall - Nyland,200,2010,30
-EUROPE,SWEDEN,1. In operation,Gothenburg - Kornsjø,200,2012,180
-EUROPE,SWEDEN,2. Under construction,Umeå - Dåvå,250,2024,12
-EUROPE,SWEDEN,2. Under construction,Lund - Arlöv,200,2024,11
+EUROPE,SWEDEN,1. In operation,Gothenburg - Kornsj,200,2012,180
+EUROPE,SWEDEN,2. Under construction,Ume - Dv,250,2024,12
+EUROPE,SWEDEN,2. Under construction,Lund - Arlv,200,2024,11
 EUROPE,SWEDEN,2. Under construction,Varberg - Hamra (Varbergtunnel),200,2025,7
-EUROPE,SWEDEN,2. Under construction,Ängelholm - Maria,200,2025,24
-EUROPE,SWEDEN,2. Under construction,Järna - Linköping,250,2035,160
-EUROPE,SWEDEN,3. Planned,Dingersjö - Sundsvall,250,2028,14
+EUROPE,SWEDEN,2. Under construction,ngelholm - Maria,200,2025,24
+EUROPE,SWEDEN,2. Under construction,Jrna - Linkping,250,2035,160
+EUROPE,SWEDEN,3. Planned,Dingersj - Sundsvall,250,2028,14
 EUROPE,SWEDEN,3. Planned,Myrbacken - Uppsala,200,2029,30
-EUROPE,SWEDEN,3. Planned,Gävle - Kringlan,200,2032,40
-EUROPE,SWEDEN,3. Planned,Dåvå - Skelefteå,250,2033,120
-EUROPE,SWEDEN,3. Planned,Gothenburg - Borås (New HSL line),250,2035,60
-EUROPE,SWEDEN,3. Planned,Hässleholm - Lund (New HSL line),320,2035,70
+EUROPE,SWEDEN,3. Planned,Gvle - Kringlan,200,2032,40
+EUROPE,SWEDEN,3. Planned,Dv - Skelefte,250,2033,120
+EUROPE,SWEDEN,3. Planned,Gothenburg - Bors (New HSL line),250,2035,60
+EUROPE,SWEDEN,3. Planned,Hssleholm - Lund (New HSL line),320,2035,70
 EUROPE,SWEDEN,3. Planned,Maria - Helsingborg,200,2035,4
 EUROPE,FRANCE,1. In operation,LGV Paris Sud-Est,300,1983,425
 EUROPE,FRANCE,1. In operation,LGV Atlantique,300,1990,292
-EUROPE,FRANCE,1. In operation,LGV Rhône - Alpes (rail bypass of Lyon),300,1994,122
+EUROPE,FRANCE,1. In operation,LGV Rhne - Alpes (rail bypass of Lyon),300,1994,122
 EUROPE,FRANCE,1. In operation,LGV Nord (inc. London - Brussels link),300,1996,346
 EUROPE,FRANCE,1. In operation,LGV Interconnexion Est IDF,300,1996,105
-EUROPE,FRANCE,1. In operation,LGV Méditerranée,300,2001,259
+EUROPE,FRANCE,1. In operation,LGV Mditerrane,300,2001,259
 EUROPE,FRANCE,1. In operation,LGV Est Europe (first phase),320,2007,335
 EUROPE,FRANCE,1. In operation,Perpignan - Spanish border (Figueres),300,2010,24
-EUROPE,FRANCE,1. In operation,LGV Rhin-Rhône Branche Est (first phase),320,2011,146
+EUROPE,FRANCE,1. In operation,LGV Rhin-Rhne Branche Est (first phase),320,2011,146
 EUROPE,FRANCE,1. In operation,LGV Est Europe (second phase),320,2016,122
 EUROPE,FRANCE,1. In operation,LGV Bretagne Pays de la Loire (BPL),320,2017,219
 EUROPE,FRANCE,1. In operation,LGV Tours - Bordeaux (SEA),320,2017,340
-EUROPE,GERMANY,1. In operation,Hannover - Würzburg,280,1991,327
+EUROPE,GERMANY,1. In operation,Hannover - Wrzburg,280,1991,327
 EUROPE,GERMANY,1. In operation,Mannheim - Stuttgart,280,1991,99
 EUROPE,GERMANY,1. In operation,Hannover - Berlin,250,1998,150
 EUROPE,GERMANY,1. In operation,(Cologne) - Siegburg - Frankfurt,300,2002,144
-EUROPE,GERMANY,1. In operation,Cologne - Düren,250,2003,39
+EUROPE,GERMANY,1. In operation,Cologne - Dren,250,2003,39
 EUROPE,GERMANY,1. In operation,Hamburg - Berlin,230,2004,286
-EUROPE,GERMANY,1. In operation,(Karlsruhe) - Rastatt Süd - Offenburg - (Basel),250,2004,44
+EUROPE,GERMANY,1. In operation,(Karlsruhe) - Rastatt Sd - Offenburg - (Basel),250,2004,44
 EUROPE,GERMANY,1. In operation,Nuremberg - Ingolstadt,300,2006,89
 EUROPE,GERMANY,1. In operation,Munich - Augsburg,230,2011,62
 EUROPE,GERMANY,1. In operation,(Karlsruhe) - Katzenberg Tunnel - (Basel),250,2012,18
@@ -125,14 +125,14 @@ EUROPE,SPAIN,1. In operation,Madrid - Sevilla,270,1992,471
 EUROPE,SPAIN,1. In operation,Madrid - Lleida,300,2003,467
 EUROPE,SPAIN,1. In operation,Zaragoza - Huesca,200,2003,79
 EUROPE,SPAIN,1. In operation,(Madrid -) La Sagra - Toledo,220,2005,21
-EUROPE,SPAIN,1. In operation,Córdoba - Antequera-Santa Ana,300,2006,111
+EUROPE,SPAIN,1. In operation,Crdoba - Antequera-Santa Ana,300,2006,111
 EUROPE,SPAIN,1. In operation,Lleida - Camp de Tarragona,300,2006,96
 EUROPE,SPAIN,1. In operation,Madrid - Segovia - Olmedo - Valladolid,300,2007,178
-EUROPE,SPAIN,1. In operation,Antequera-Santa Ana - Málaga,300,2007,58
+EUROPE,SPAIN,1. In operation,Antequera-Santa Ana - Mlaga,300,2007,58
 EUROPE,SPAIN,1. In operation,Camp de Tarragona - Barcelona,300,2008,100
 EUROPE,SPAIN,1. In operation,By pass Madrid,200,2009,5
-EUROPE,SPAIN,1. In operation,Santiago - A Coruña,250,2009,61
-EUROPE,SPAIN,1. In operation,(Madrid -) Torrejón de Velasco - Valencia,300,2010,362
+EUROPE,SPAIN,1. In operation,Santiago - A Corua,250,2009,61
+EUROPE,SPAIN,1. In operation,(Madrid -) Torrejn de Velasco - Valencia,300,2010,362
 EUROPE,SPAIN,1. In operation,Albacete Junction - Albacete,300,2010,73
 EUROPE,SPAIN,1. In operation,Figueres - French border (- Perpignan),300,2010,20
 EUROPE,SPAIN,1. In operation,Ourense - Santiago,300,2011,85
@@ -140,22 +140,22 @@ EUROPE,SPAIN,1. In operation,By pass Yeles,200,2012,6
 EUROPE,SPAIN,1. In operation,Barcelona - Figueres,300,2013,131
 EUROPE,SPAIN,1. In operation,Albacete - Alicante/Alacant,300,2013,165
 EUROPE,SPAIN,1. In operation,Santiago - Vigo,200,2015,95
-EUROPE,SPAIN,1. In operation,Sevilla - Cádiz,250,2015,153
-EUROPE,SPAIN,1. In operation,Valladolid - León,300,2015,166
+EUROPE,SPAIN,1. In operation,Sevilla - Cdiz,250,2015,153
+EUROPE,SPAIN,1. In operation,Valladolid - Len,300,2015,166
 EUROPE,SPAIN,1. In operation,Olmedo - Zamora,300,2015,99
-EUROPE,SPAIN,1. In operation,Valencia - Vandellós,220,2019,219
+EUROPE,SPAIN,1. In operation,Valencia - Vandells,220,2019,219
 EUROPE,SPAIN,1. In operation,Antequera-Santa Ana - Granada,250,2019,109
-EUROPE,SPAIN,1. In operation,Vandellós - Tarragona,200,2020,47
+EUROPE,SPAIN,1. In operation,Vandells - Tarragona,200,2020,47
 EUROPE,SPAIN,1. In operation,Zamora - Pedralba,300,2020,110
 EUROPE,SPAIN,2. Under construction,Monforte del Cid - Murcia,300,2021,64
-EUROPE,SPAIN,2. Under construction,Venta de Baños - Burgos,300,2021,91
-EUROPE,SPAIN,2. Under construction,León - Pola de Lena (Pajares New pass),250,2021,76
+EUROPE,SPAIN,2. Under construction,Venta de Baos - Burgos,300,2021,91
+EUROPE,SPAIN,2. Under construction,Len - Pola de Lena (Pajares New pass),250,2021,76
 EUROPE,SPAIN,2. Under construction,Navalmoral - Plasencia - Badajoz,300,2021,246
 EUROPE,SPAIN,2. Under construction,Pedralba - Ourense,300,2021,113
-EUROPE,SPAIN,2. Under construction,Vitoria Gasteiz - Bilbao / San Sebastián,250,2028,175
-EUROPE,RUSSIA,3. Planned,St. Petersburg - Moscow - Nizhni Nóvgorod,350,2026,1.080
+EUROPE,SPAIN,2. Under construction,Vitoria Gasteiz - Bilbao / San Sebastin,250,2028,175
+EUROPE,RUSSIA,3. Planned,St. Petersburg - Moscow - Nizhni Nvgorod,350,2026,1.080
 EUROPE,SERBIA,2. Under construction,Belgrade - Novi Sad,200,2021,76
-EUROPE,SERBIA,3. Planned,Belgrade - Ni,200,2023,204
+EUROPE,SERBIA,3. Planned,Belgrade - Ni,200,2023,204
 EUROPE,UNITED KINGDOM,1. In operation,Fawkham Junction - Channel Tunnel,300,2003,74
 EUROPE,UNITED KINGDOM,1. In operation,London - Southfleet Junction,230,2007,39
 EUROPE,UNITED KINGDOM,2. Under construction,London - Birmingham,360,2026,225
